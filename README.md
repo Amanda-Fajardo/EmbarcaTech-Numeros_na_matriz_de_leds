@@ -48,3 +48,7 @@ make
 Conecte o Raspberry Pi Pico ao computador no modo de bootloader (segure o botão BOOTSEL ao conectar o USB).
 
 Copie o arquivo `.uf2` gerado para o Pico.
+
+# Demonstração
+
+https://drive.google.com/drive/folders/1QWjUxXckYYT1NeNYckPf0usDjmtcWIz5?usp=sharing
